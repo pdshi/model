@@ -7,7 +7,8 @@
 * The output is determined by the data inputted by the user, currently ['Gender', 'Height', 'Weight'] for CCM and ['Availability/Week'] for SG other head are not yet included
 
 Flow of Process
-![AS](https://github.com/pdshi/model/assets/94330691/9558ba24-1cf1-4016-a04a-4c2c24ba86a6)
+![asac](https://github.com/pdshi/model/assets/94330691/c5bab383-7917-4bdf-b340-764825e5e9a6)
+
 
 ### 1a. Capability Classifier Model (CCM)
 * Posits a percentage of capability 0 to 100% 
@@ -18,24 +19,25 @@ https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymas
 
 A Visual
 
-![datset characteristic](https://github.com/pdshi/model/assets/94330691/cc5b8df8-a561-467f-b447-809fe4b460b2)
-![F to M status proportion](https://github.com/pdshi/model/assets/94330691/7fd320f6-6de8-4115-ade2-588747d1e383)
+![datset characteristic](https://github.com/pdshi/model/assets/94330691/75c7e119-e183-41dc-864b-6a3f8bb93863)
+![F to M status proportion](https://github.com/pdshi/model/assets/94330691/8d2c1a89-93c8-4b19-a88c-e5e9d7f8255f)
+
 500 data in total
 
 
 The Model
 
-![model-ccm](https://github.com/pdshi/model/assets/94330691/e9625f2f-dd4c-4739-a34b-c0fcad9b1b37)
+![model-ccm](https://github.com/pdshi/model/assets/94330691/3fb89c82-ea6d-4ee0-8b12-c5160f6e921a)
 
 
 Train Result
 
-![train result](https://github.com/pdshi/model/assets/94330691/87762fc9-dfa5-4cd8-b173-4da14dd97f20)
+![train result](https://github.com/pdshi/model/assets/94330691/0e55d00d-0ae2-47dd-a130-c4e28605efea)
 
 
 Output
 
-![image](https://github.com/pdshi/model/assets/94330691/f285a9d7-4ef9-400d-b148-a0bd5968e41c)
+![sasaa](https://github.com/pdshi/model/assets/94330691/8620681b-7bf1-4fdb-a891-23aa38a37813)
 
 ### 1b. Schedule Generator (SG)
 * First posits a workout plan consist of 3 Workout: PushUp, SitUp, JumpingJack with reps determinded by scaling the floor to ceil of workout by the capability score value 
@@ -49,8 +51,9 @@ Sets Scheme:
 - Week 3: 3 Reps
 - Week 4: 4 Reps
 
-(ONGOING)
+Output
 
+![dsdsds](https://github.com/pdshi/model/assets/94330691/45f32679-d482-4b14-b9c2-b398161adaa1)
 
 
 
