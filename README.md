@@ -19,7 +19,6 @@ https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymas
 
 A Visual
 
-![datset characteristic](https://github.com/pdshi/model/assets/94330691/75c7e119-e183-41dc-864b-6a3f8bb93863)
 ![F to M status proportion](https://github.com/pdshi/model/assets/94330691/8d2c1a89-93c8-4b19-a88c-e5e9d7f8255f)
 
 500 data in total
