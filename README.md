@@ -4,7 +4,7 @@
 ## 1. Workout Planner
 * Consist of {Capability Classifier Model (CCM), Schedule Generator (SG)} 
 * Posits a workout schedule for 1 month
-* The output is determined by the data inputted by the user, currently ['Gender', 'Height', 'Weight'] for CCM and ['Availability/Week'] for SG other head are not yet included
+* The output is determined by the data inputted by the user, currently ['Gender', 'Height', 'Weight'] for CCM and ['Freq/Week', 'Day Start', 'WO Time'] for SG other head are not yet included
 
 Flow of Process
 ![asac](https://github.com/pdshi/model/assets/94330691/c5bab383-7917-4bdf-b340-764825e5e9a6)
@@ -41,8 +41,7 @@ Output
 
 ### 1b. Schedule Generator (SG)
 * First posits a workout plan consist of 3 Workout: PushUp, SitUp, JumpingJack with reps determinded by scaling the floor to ceil of workout by the capability score value 
-* Then posits a workout schedule in the forms of dataframe ['No WO', 'Plan', 'Date', 'WO Starts', 'WO Stops']  
-* Amount of workout/week and its duration are currently determined only by ['Availability/Week'] 
+* Then posits a workout schedule in the forms of dataframe ['exercise no.', 'plan', 'sets', 'date', 'starts', 'end']  
 * Workout plan generated every month with updated user's data
 
 Sets Scheme: 
