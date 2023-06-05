@@ -1,4 +1,4 @@
-# MoveMate's Machine Learning MODEL
+# MoveMate's ML Model
 * Consist of {Workout Planner, Activity Recognition Model}
 
 ## 1. Workout Planner
