@@ -45,6 +45,8 @@ Sets Scheme:
 - Week 2: 3 Reps
 - Week 3: 3 Reps
 - Week 4: 4 Reps
+
+
 ![image](https://github.com/pdshi/wo-planner-model/assets/85791158/cf15f2f2-1add-41ef-9cd3-50026792da14)
 
 
