@@ -45,7 +45,8 @@ Sets Scheme:
 - Week 2: 3 Reps
 - Week 3: 3 Reps
 - Week 4: 4 Reps
-![dsdsds](https://github.com/pdshi/model/assets/94330691/45f32679-d482-4b14-b9c2-b398161adaa1)
+![image](https://github.com/pdshi/wo-planner-model/assets/85791158/cf15f2f2-1add-41ef-9cd3-50026792da14)
+
 
 ## Dependencies
 Here are the dependencies and libraries needed to run the notebook
