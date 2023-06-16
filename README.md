@@ -37,7 +37,6 @@ A Visualization of The Data
 ## Results
 ### Capability Classifier Model (CCM)
 ![train result](https://github.com/pdshi/model/assets/94330691/0e55d00d-0ae2-47dd-a130-c4e28605efea)
-Output
 ![sasaa](https://github.com/pdshi/model/assets/94330691/8620681b-7bf1-4fdb-a891-23aa38a37813)
 
 ### Schedule Generator (SG)
